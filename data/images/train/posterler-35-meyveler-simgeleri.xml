@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>posterler-35-meyveler-simgeleri.jpg</filename>
+	<path>C:\Users\RABİA\Desktop\data\images\train\posterler-35-meyveler-simgeleri.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>594</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>23</ymin>
+			<xmax>63</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>

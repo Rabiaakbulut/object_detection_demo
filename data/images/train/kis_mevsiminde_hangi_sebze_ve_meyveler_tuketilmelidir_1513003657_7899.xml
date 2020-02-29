@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>kis_mevsiminde_hangi_sebze_ve_meyveler_tuketilmelidir_1513003657_7899.jpg</filename>
+	<path>C:\Users\RABİA\Desktop\data\images\train\kis_mevsiminde_hangi_sebze_ve_meyveler_tuketilmelidir_1513003657_7899.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>102</ymin>
+			<xmax>425</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
